@@ -8,7 +8,7 @@
 ## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/minitalk)](https://github.com/JaeSeoKim/badge42)
 ## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/push_swap)](https://github.com/JaeSeoKim/badge42)
 ## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/Philosophers)](https://github.com/JaeSeoKim/badge42)
-## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/Libasm)](https://github.com/JaeSeoKim/badge42)
+## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/libasm)](https://github.com/JaeSeoKim/badge42)
 ## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/cub3d)](https://github.com/JaeSeoKim/badge42)
 ## Cub3D [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/Inception)](https://github.com/JaeSeoKim/badge42)
 
