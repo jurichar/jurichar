@@ -34,6 +34,10 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/cub3d)](https://github.com/JaeSeoKim/badge42)
 
+### CPP 
+
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/CPP00)](https://github.com/JaeSeoKim/badge42)
+
 ### Inception 
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/Inception)](https://github.com/JaeSeoKim/badge42)
