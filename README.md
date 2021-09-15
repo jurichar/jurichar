@@ -34,9 +34,9 @@
 
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/cub3d)](https://github.com/JaeSeoKim/badge42)
 
-### CPP 
+### minishell 
 
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/ft_transcendence)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jurichar/minishell)](https://github.com/JaeSeoKim/badge42)
 
 ### Inception 
 
