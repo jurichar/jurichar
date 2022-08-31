@@ -1,13 +1,13 @@
 [![42](https://badgen.net/badge/Born2Code/jurichar/orange?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)](https://profile.intra.42.fr/users/jurichar)
 
 [![jurichar's 42 stats](https://badge42.vercel.app/api/v2/cl59aitlt004009lbtt6nrcuq/stats?cursusId=21&coalitionId=47)]()
----
+<!-- ---
 | Project       | Grade  |
 | ------------- | --------------------------------------------------- |
 | Libft         | [![jurichar's 42 Libft Score]()]()                              |
 | ft_printf     | [![jurichar's 42 ft_printf Score]()]()          |
 | get_next_line | [![jurichar's 42 get_next_line Score]()]()        |
-| minitalk      | [![jurichar's 42 minitalk Score]()]()                      |
+| minitalk      | [![jurichar's 42 minitalk Score](img/minitalk.png)]()                      |
 | push_swap     | [![jurichar's 42 push_swap Score]()]()                   |
 | philosophers  | [![jurichar's 42 Philosophers Score]()]() |
 | libasm        | [![jurichar's 42 libasm Score]()]()                                     |
@@ -18,6 +18,8 @@
 | ft_container     | [![jurichar's 42 ft_irc Score]()]()                  |
 | ft_irc           | [![jurichar's 42 ft_irc Score]()]()                              |
 | ft_transcendance | [![jurichar's 42 ft_transcendence Score]()]()                     |
+ -->
+
 
 ![test](https://img.shields.io/github/followers/jurichar?style=for-the-badge&logo=appveyor)
 
