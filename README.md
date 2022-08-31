@@ -27,8 +27,8 @@
 | inception        | [![jurichar's 42 Inception Score](https://badge42.vercel.app/api/v2/cl59aitlt004009lbtt6nrcuq/project/2172856)](https://github.com/JaeSeoKim/badge42)                       |
 | module-cpp       | [![jurichar's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl59aitlt004009lbtt6nrcuq/project/2454748)](https://github.com/JaeSeoKim/badge42) |
 | ft_container     | [![jurichar's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl59aitlt004009lbtt6nrcuq/project/2516896)](https://github.com/JaeSeoKim/badge42)                  |
-| ft_irc           | [![jurichar's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl59aitlt004009lbtt6nrcuq/project/2516896)](https://github.com/JaeSeoKim/badge42)                              |
-| ft_transcendance | [![libasm](https://badge42.herokuapp.com/api/project/jurichar/ft_transcendance)](https://github.com/JaeSeoKim/badge42)                     |
+| ft_irc           | [![jurichar's 42 ft_irc Score]()](https://github.com/JaeSeoKim/badge42)                              |
+| ft_transcendance | [![jurichar's 42 ft_transcendence Score]()](https://github.com/JaeSeoKim/badge42)                     |
 
   </td></tr> </table>
 
