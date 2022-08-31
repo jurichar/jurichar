@@ -19,10 +19,7 @@
 | ft_irc           | [![jurichar's 42 ft_irc Score]()]()                              |
 | ft_transcendance | [![jurichar's 42 ft_transcendence Score]()]()                     |
  -->
-
-
-![test](https://img.shields.io/github/followers/jurichar?style=for-the-badge&logo=appveyor)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=jurichar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![42](https://camo.githubusercontent.com/0974bb802a7195ef994e4fd59662b33f0aef10da601a3ed41e9e67c1c6c029b2/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d343226636f6c6f723d303030303030266c6f676f3d3432266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
