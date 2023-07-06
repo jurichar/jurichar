@@ -29,9 +29,8 @@ Je suis toujours curieux d'apprendre de nouvelles technologies et j'aime relever
 
 Si vous souhaitez discuter ou travailler avec moi, n'hésitez pas à me contacter !
 
-- Email: [Email](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-<!-- - Twitter: [Twitter](https://twitter.com/your-twitter/) -->
-<!-- - Instagram: [Instagram](https://www.instagram.com/your-instagram/) -->
+- Portfolio: [Portfolio](https://www.jurichar.vercel.app/)
+- Email: [Email](mailto:julienrichard.emp@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/julien-rchd/)
 
 Merci d'avoir visité mon profil 😊
