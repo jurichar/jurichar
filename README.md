@@ -10,18 +10,21 @@ Bienvenue sur mon profil GitHub !
 
 Je suis un développeur passionné qui aime créer des applications web de qualité. J'aime particulièrement travailler avec les technologies suivantes :
 
-- **React** : une bibliothèque JavaScript pour construire des interfaces utilisateur.
-- **JavaScript (JS)** : un langage de programmation haut niveau, souvent utilisé pour le développement web côté client.
+- **React** : un framework JavaScript haut niveau, souvent utilisé pour le développement web.
+- **NodeJS** : un environement pour le développement de serveurs web.
+- **SQL** : un langage de programmation pour les bases de données.
 - **Sass (SCSS)** : un préprocesseur CSS qui permet d'utiliser des variables, des règles imbriquées, des mixins, des héritages, et plus encore, le tout avec une syntaxe entièrement compatible avec CSS.
-- **Tailwind CSS** : un framework CSS utilitaire pour construire rapidement des interfaces utilisateur personnalisées.
+- **Docker** : un outil de containerisation afin de créer des environement leger.
 <!-- - Et d'autres technologies web... -->
 
 ## Mes compétences techniques
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 Je suis toujours curieux d'apprendre de nouvelles technologies et j'aime relever de nouveaux défis. N'hésitez pas à consulter mes projets ci-dessous!
 
