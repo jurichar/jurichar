@@ -12,6 +12,7 @@ Je suis un développeur passionné qui aime créer des applications web de quali
 
 - **React** : un framework JavaScript haut niveau, souvent utilisé pour le développement web.
 - **NodeJS** : un environement pour le développement de serveurs web.
+- **Swift / SwiftUI** : un langage issue du C# dons l'objectif est de developper des application sur l'environnement Apple.
 - **SQL** : un langage de programmation pour les bases de données.
 - **Sass (SCSS)** : un préprocesseur CSS qui permet d'utiliser des variables, des règles imbriquées, des mixins, des héritages, et plus encore, le tout avec une syntaxe entièrement compatible avec CSS.
 - **Docker** : un outil de containerisation afin de créer des environement leger.
