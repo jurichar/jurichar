@@ -1,4 +1,4 @@
-# Bonjour, je suis [jurichar](https://profile.intra.42.fr/users/jurichar) 👋
+# Hi, I'm [jurichar](https://profile.intra.42.fr/users/jurichar) 👋
 
 Bienvenue sur mon profil GitHub !
 
