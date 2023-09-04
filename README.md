@@ -12,7 +12,9 @@ Je suis un développeur passionné qui aime créer des web app.
 
 J'aime particulièrement travailler avec les technologies suivantes :
 
-- **React** : framework JavaScript haut niveau, souvent utilisé pour le développement web.
+- **ReactJS** : framework JavaScript, souvent utilisé pour le développement web.
+- **VueJS** : framework JavaScript, souvent utilisé pour le développement web.
+- **NextJS** : framework ReactJS, souvent utilisé pour le développement web.
 - **NodeJS** : développement de serveurs web.
 - **Swift / SwiftUI** : développement d'applications sur l'environnement Apple.
 - **SQL** : bases de données.
@@ -23,6 +25,8 @@ J'aime particulièrement travailler avec les technologies suivantes :
 ## Mes compétences techniques
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
