@@ -27,8 +27,8 @@ N'hésitez pas à consulter mes projets ci-dessous!
 
 Si vous souhaitez discuter ou travailler avec moi, n'hésitez pas à me contacter !
 
-- Portfolio: ([Portfolio](https://jurichar.vercel.app/))
-- Email: ([Email](mailto:julienrichard.emp@gmail.com))
-- LinkedIn: ([LinkedIn](https://www.linkedin.com/in/julien-rchd/))
+- [Portfolio](https://jurichar.vercel.app/)
+- [Email](mailto:julienrichard.emp@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/julien-rchd/)
 
 Merci d'avoir visité mon profil 😊
