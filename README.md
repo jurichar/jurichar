@@ -13,6 +13,7 @@ Je suis un développeur passionné qui aime créer des web app.
 J'aime particulièrement travailler avec les technologies suivantes :
 
 - **Python** (Django)
+- **Golang**
 - **JavaScript / TypeScript** (React, Vue)
 - SCSS, Tailwind, Framer Motion
 - **Docker**, Kubernetes
