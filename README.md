@@ -14,7 +14,7 @@ I particularly enjoy working with the following technologies:
 
 - **Python** (Django)
 - **Go**
-- **JS / TS** (React, Vue)
+- **JS / TS** (Next, Nuxt)
 - SCSS, Tailwind, Framer Motion
 - **Docker**, Kubernetes
 - **SQL**
