@@ -12,13 +12,12 @@ I am a passionate developer who loves creating web apps.
 
 I particularly enjoy working with the following technologies:
 
-- **Python** (Django)
+- **Python** (Django & Flask)
+- React Native
+- **JS / TS** (React, Next)
 - **Go**
-- **JS / TS** (Next, Nuxt)
-- SCSS, Tailwind, Framer Motion
-- **Docker**, Kubernetes
+- **Docker**, Kubernetes, Cloud
 - **SQL**
-- Firebase, Wordpress
 
 I am always curious to learn new technologies and I enjoy taking on new challenges.
 
@@ -28,7 +27,7 @@ Feel free to check out my projects below!
 
 If you'd like to chat or work with me, don't hesitate to reach out!
 
-- [Portfolio](https://jurichar.vercel.app/)
+- [Portfolio](https://jurichar.fr/)
 - [Email](mailto:julienrichard.emp@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/julien-rchd/)
 
